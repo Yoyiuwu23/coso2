@@ -11,7 +11,7 @@
 
 ## 📜 Licencia
 ```text
-Copyright (C) 2023 Yoyi
+Copyright (C) 2025 Yoyi
 
 Este programa es software libre: puedes redistribuirlo y/o modificarlo
 bajo los términos de la GNU General Public License publicada por
